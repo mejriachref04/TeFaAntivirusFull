@@ -32,9 +32,10 @@ source venv/bin/activate
 4. Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
+
 If yara-python or pefile fail to install, the app still works without those features.
 
-5. Run the application:
+6. Run the application:
 python main.py
  
  
